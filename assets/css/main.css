@@ -1291,8 +1291,10 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			border: solid 0px #ffffff;
 			border-radius: 100%;
+			margin-left: -60px;
+			padding-bottom: 143px;
 		}
 
 			#header .logo .icon:before {
